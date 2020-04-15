@@ -1,0 +1,41 @@
+ h1 {font-size: 60px;
+     color: aqua;
+    text-align: center;}
+h2 {font-size: 45px;
+    color: aqua;
+    text-align: center;}
+h3 {font-size: 35px;
+    color: aqua;}
+p {font-size: 30px;
+    color: floralwhite;}
+th {text-align: center;
+    font-size: 30px;
+    color: cadetblue;}
+td {text-align: center;
+    font-size: 30px;
+    color: cyan;}
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+.btn{
+    border: 3px solid green;
+    background: none;
+    padding: 50px 380px;
+    font-size: 41px;
+    color:limegreen;
+    background: none;
+    cursor: pointer;
+    transition: 1s;
+    vertical-align: middle;
+    
+}
+.btn:hover {
+    color: darkgreen;
+    font-size: 35px;
+    background-color: #76AEDD;
+}
+.kép {
+    position: relative;
+    right: 100px
+}
